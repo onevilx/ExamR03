@@ -27,7 +27,7 @@ There's no norminette in this exam 💻
 - Stay calm and manage your time effectively.
 
 ## Resources
-- [ft_printf](https://github.com/onevilx/ExamR03/ft_printf)
-- [get_next_line](https://github.com/onevilx/ExamR03/get_next_line)
+- [ft_printf](https://github.com/onevilx/ExamR03/tree/main/ft_printf)
+- [get_next_line](https://github.com/onevilx/ExamR03/tree/main/get_next_line)
 
 Good luck with ExamRank03!
